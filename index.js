@@ -13,7 +13,10 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-
+ʜᴇʏ ʏᴏᴜ ᴊᴜsᴛ ɢᴏᴛ ʏᴏᴜʀ sᴇssɪᴏɴ_ɪᴅ 
+⚠ᴅᴏɴᴛ sʜᴀʀᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ
+ᴡᴇʟᴘ:ғᴏʟʟᴏᴡ ᴍʏ ᴛᴇᴄʜ ᴄʜᴀɴɴᴇʟ
+https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
 `
 
 
